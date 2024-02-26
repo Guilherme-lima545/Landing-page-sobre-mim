@@ -126,3 +126,25 @@
         width: 70%;
     }
 }
+
+@media (max-width: 414px) {
+
+    .cabecalho nav ul li {
+        width: 10%;
+    }
+
+
+    .container .texto p {
+        
+        display: inline;
+        left: -44px;
+        top: 290px;
+        width: 80%;
+    }
+
+    .container .texto h1 {
+        top: 90px;
+        left: -10px;
+        width: 70%;
+    }
+} 
